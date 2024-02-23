@@ -1,8 +1,6 @@
 ### Hi there 👋
-
-- 🔭 I’m currently working with embedded circuits.
-- 🌱 I’m currently learning: IOT, SCADA Systems and Machine learning.
+- 🌱 I’m currently learning: IOT, OpenGL and Machine learning.
 - 👯 I’m looking to collaborate ...
 - 🤔 I’m looking for help with AI
-- 💬 Ask me about protocols communications
+- 💬 Ask me about electronic
 - 📫 How to reach me: edward.camilo.q@gmail.com
